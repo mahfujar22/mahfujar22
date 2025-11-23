@@ -6,7 +6,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mahfujar+Rahman!;Flutter+Developer;Mobile+apps+%E2%80%A2+%E2%80%A2+UI%2FUX)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Flutter+Developer)
+
 
 
 
