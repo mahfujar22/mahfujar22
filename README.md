@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Roy!;MERN+Stack+Developer;Passionate+Frontend+Engineer;Always+Learning+and+Building...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mahfujar+Rahman!;Flutter+Developer;Passionate+Flutter+Engineer;Always+Learning+and+Building...)
 
 </div>
 
