@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alok-roy-dev.vercel.app/](https://alok-roy-dev.vercel.app/)
 
-- 📫 How to reach me *alokroy602701@gmail.com*
+- 📫 How to reach me *mahfujar22@gmail.com*
 
 - 📄 Know about my experiences
 - ⚡ Fun fact *I am funny ☺*
@@ -22,13 +22,11 @@
 
 </div>
 
-I'm *Alok Roy, a passionate **MERN Stack Developer* with a strong focus on crafting responsive, dynamic, and user-friendly web applications.  
-I specialize in *React.js, **Node.js, and **MongoDB*, and I love turning complex problems into simple, beautiful, and intuitive solutions.
+I'm MD Mahfuj Mia, a passionate Flutter Developer skilled in building high-quality, responsive, cross‑platform mobile applications for Android, iOS, and Web.
 
-💡 I enjoy exploring new technologies, working on real-world projects, and constantly pushing my limits to become a better developer.  
-Currently, I am actively contributing to full-stack projects using the latest tools like *Next.js, **Redux Toolkit, **Tailwind CSS, and **TypeScript*.
+I love creating beautiful UI, smooth UX, and scalable app architectures using modern tools like Provider, GetX, Firebase, REST APIs, and clean design principles.
 
-My goal is to join a forward-thinking team, deliver impactful solutions, and continue evolving into a high-performing full-stack engineer.
+🎯 My goal is to become a top-level mobile app engineer and build impactful, real‑world applications.
 
 🎯 Let’s connect and build something amazing together!
 
