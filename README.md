@@ -43,42 +43,56 @@ I love creating beautiful UI, smooth UX, and scalable app architectures using mo
 
 <!-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24629498/alok-roy) -->
 
-## 🛠 Skill Set
+## 🛠 Skill Set (Flutter Developer)
 
-### 🎨 Front-End Technologies
+### 🔤 **Languages & Frameworks**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter Web](https://img.shields.io/badge/Flutter%20Web-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23E57B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js)
-![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-%231677FF?style=for-the-badge&logo=ant-design)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+---
 
+### 📦 **State Management**
+![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0A74DA?style=for-the-badge&logo=provider&logoColor=white)
 
-### 🔧 Backend Technologies
+---
 
-![Node.js](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+### 🗄️ **Backend & Database**
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-F5820D?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase Messaging](https://img.shields.io/badge/Firebase%20Messaging-F5820D?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 🧰 Tools & Platforms
+---
 
-![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)
-![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%2320232a.svg?style=for-the-badge&logo=react-query)
-![Tanstack Table](https://img.shields.io/badge/tanstack%20table-%2320232a.svg?style=for-the-badge&logo=react-table)
-![Zod](https://img.shields.io/badge/Zod%20Validation-%2320232a?style=for-the-badge&logo=zod)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%2320232a?style=for-the-badge&logo=react-hook-form&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%2320232a.svg?style=for-the-badge&logo=stripe)
-![JWT](https://img.shields.io/badge/JWT-%2320232a?style=for-the-badge&logo=JSON%20web%20tokens)
-![GIT](https://img.shields.io/badge/Git-%2320232a?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma)
+### 🌐 **API & Networking**
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-000000?style=for-the-badge&logo=http&logoColor=white)
+
+---
+
+### 🎨 **UI Components & Tools**
+![Cached Network Image](https://img.shields.io/badge/Cached%20Network%20Image-02569B?style=for-the-badge)
+![Image Picker](https://img.shields.io/badge/Image%20Picker-0A74DA?style=for-the-badge)
+![File Picker](https://img.shields.io/badge/File%20Picker-009688?style=for-the-badge)
+![Flutter Toast](https://img.shields.io/badge/Flutter%20Toast-6A1B9A?style=for-the-badge)
+![Snackbar](https://img.shields.io/badge/Snackbar-263238?style=for-the-badge)
+![Splash Screen](https://img.shields.io/badge/Splash%20Screen-546E7A?style=for-the-badge)
+
+---
+
+### 🌍 **Utilities**
+![Intl](https://img.shields.io/badge/Intl%20(Localization%20%26%20Formatting)-00796B?style=for-the-badge)
+
+---
+
+### 🧑‍💻 **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
+
 <!-- ![Adobe Acrobat Pro](https://img.shields.io/badge/Adobe%20Acrobat%20Pro-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white) -->
 
 ## 📊 Additional Stats
