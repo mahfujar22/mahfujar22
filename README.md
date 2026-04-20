@@ -22,6 +22,8 @@ I love creating beautiful UI, smooth UX, and scalable app architectures using mo
 
 🎯 Let’s connect and build something amazing together!
 
+Currently building AI-integrated Flutter apps (Chatbot, API-based AI features)
+
 
 
 ## 🌐 Connect with Me
